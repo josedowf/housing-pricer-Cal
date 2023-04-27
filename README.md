@@ -1,0 +1,4 @@
+# Cal_Housing_Prices-ML-Model
+This repository contains a machine learning algorithm that predicts the pricing of houses in the state of California. The algorithm uses a database of relevant information about house pricing, which is first analyzed using graphs and calculations. The data is then processed, encoded, and scaled to be modeled using the libraries Pandas, Matplotlib, Scikit-learn, and NumPy, among others. The algorithm employs a decision tree regressor and is trained using a pipeline that includes grid search cross-validation to optimize hyperparameters. The performance of the model is evaluated using several metrics, including mean squared error, mean absolute error, and r2 score. The resulting predictions can be used to inform pricing decisions for real estate transactions in California.
+
+NOTE: This information is not meant to be used for real house pricing purposes and was extracted from Kaggle. This is only meant to be used for educational purposes.
